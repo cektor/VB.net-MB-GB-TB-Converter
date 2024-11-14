@@ -6,7 +6,20 @@ Visual Studio 2022 must be installed (vb.net)
 
 ----------------------------------
 
-# To Download and Run
+# To Run Directly in Windows
+
+https://github.com/cektor/VB.net-MB-GB-TB-Converter/releases/tag/vb.net
+
+Download from the link and mb-gb-tb-converter.exe Run it
+
+
+----------------------------------
+
+# To Run on Linux or MacOS
+Install Wine First
+https://gitlab.winehq.org/wine/wine/-/wikis/Download
+
+Download MB-GB-TB-Converter and Run with Wine
 
 https://github.com/cektor/VB.net-MB-GB-TB-Converter/releases/tag/vb.net
 
