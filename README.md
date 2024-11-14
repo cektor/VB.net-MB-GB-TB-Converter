@@ -10,6 +10,9 @@ Visual Studio 2022 must be installed (vb.net)
 
 https://github.com/cektor/VB.net-MB-GB-TB-Converter/releases/tag/vb.net
 
+Download from the link and mb-gb-tb-converter.exe Run it
+
+
 ----------------------------------
 
 # Screenshot
