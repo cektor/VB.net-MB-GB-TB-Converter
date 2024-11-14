@@ -2,7 +2,11 @@
 Computer Unit Converter MB-GB-TB Conversion Operations Written in VB.net Language. Cross Platform (Windows-MacOS-Linux) Works with Wine Support
 
 # To edit
-Visual Studio 2022 must be installed (vb.net)
+Visual Studio 2022 must be installed (vb.net) (https://visualstudio.microsoft.com/tr/thank-you-downloading-visual-studio/?sku=Professional&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false)
+
+NetFramework 4.8  (https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
+
+
 
 ----------------------------------
 
